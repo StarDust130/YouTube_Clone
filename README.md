@@ -12,11 +12,9 @@ This project is a YouTube clone created using HTML, CSS, JavaScript, React, Tail
 
 
 ## Features ✨
-
-- User Authentication
-- Video Uploading
+- Video Category
 - Video Playback
-- Video Comments
+- Video Search
 - Responsive Design
 
 ## Technologies Used 💻
