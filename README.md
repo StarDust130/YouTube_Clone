@@ -10,7 +10,6 @@ This project is a YouTube clone created using HTML, CSS, JavaScript, React, Tail
 
 
 
-
 ## Features ✨
 - Video Category
 - Video Playback
