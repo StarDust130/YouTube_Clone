@@ -8,7 +8,6 @@ This project is a YouTube clone created using HTML, CSS, JavaScript, React, and 
 
 #### Check out the live demo of our YouTube Clone project [SEE LIVE](https://star-dust-youtube-clone.netlify.app/).
 
-
 ## Features ✨
 - Video Category
 - Video Playback
