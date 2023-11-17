@@ -13,7 +13,6 @@ This project is a YouTube clone created using HTML, CSS, JavaScript, React, and 
 - Video Search
 - Responsive Design
 
-
 ## Technologies Used 💻
 - HTML
 - CSS
