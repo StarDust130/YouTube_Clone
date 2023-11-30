@@ -15,6 +15,7 @@ This project is a YouTube clone created using HTML, CSS, JavaScript, React, and 
 
 
 
+
 ## Technologies Used 💻
 - HTML
 - CSS
